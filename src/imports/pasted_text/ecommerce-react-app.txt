@@ -1,0 +1,124 @@
+Create a complete, modern, fully responsive E-Commerce Website using **React.js**.
+
+The website must fetch real products from:
+**https://fakestoreapi.com/products**
+
+--------------------------------------------
+📌 Technologies:
+--------------------------------------------
+• React.js  
+• React Router  
+• Fake Store API  
+• Context API for Cart  
+• CSS Modules or TailwindCSS (choose the best visually)  
+
+--------------------------------------------
+📌 Pages to generate:
+--------------------------------------------
+1) Home Page  
+2) Products Page (fetch from Fake Store API)  
+3) Product Details Page (fetch dynamically by ID)  
+4) Cart Page  
+5) Checkout Page  
+6) Wishlist Page  
+7) About Page  
+8) Contact Page  
+9) Search Page  
+10) Login / Register Page  
+
+--------------------------------------------
+📌 Components needed:
+--------------------------------------------
+• Responsive Navbar with logo, links, cart icon (with counter), search bar  
+• Footer with links  
+• Product Card: image, title, category, price, rating, button  
+• Category buttons  
+• Hero Section  
+• Filter Section  
+• Cart Item component  
+• Forms (beautiful & responsive)  
+
+--------------------------------------------
+📌 Home Page:
+--------------------------------------------
+• Hero banner with stylish colors  
+• "Featured Products" (use products from Fake Store API, limit 8)  
+• Categories section  
+• Sale/Offer banner  
+
+--------------------------------------------
+📌 Products Page:
+--------------------------------------------
+• Fetch products from: https://fakestoreapi.com/products  
+• Grid layout  
+• Filters (category – price – rating)  
+• Product skeleton loading  
+
+--------------------------------------------
+📌 Product Details Page:
+--------------------------------------------
+• Fetch single product from: https://fakestoreapi.com/products/:id  
+• Large image, title, category, description  
+• Price section  
+• Add to Cart / Add to Wishlist  
+• Quantity selector  
+
+--------------------------------------------
+📌 Cart Page:
+--------------------------------------------
+• List cart items (image – name – price – quantity – remove)  
+• Subtotal & Total  
+• "Proceed to Checkout" button  
+
+--------------------------------------------
+📌 Checkout Page:
+--------------------------------------------
+• Form: name, email, address, phone  
+• Payment options section  
+• Order Summary right side  
+• Place Order button  
+
+--------------------------------------------
+📌 About Page:
+--------------------------------------------
+• Modern layout  
+• Mission + images + icons  
+
+--------------------------------------------
+📌 Contact Page:
+--------------------------------------------
+• Contact form  
+• Map placeholder  
+• Contact info  
+
+--------------------------------------------
+🎨 Style:
+--------------------------------------------
+• Use a modern palette:  
+  #4A60FF (primary)  
+  #6C34FF (accent)  
+  White + Gray backgrounds  
+
+• Rounded cards  
+• Clean spacing system  
+• Modern typography  
+• Smooth hover effects  
+• Full mobile/tablet/desktop responsiveness  
+
+--------------------------------------------
+📌 Functionality:
+--------------------------------------------
+• Fetch products live from Fake Store API  
+• Use Context API to manage Cart & Wishlist  
+• Save cart to localStorage  
+• Search functionality  
+• Filters functional  
+• Loading states + Error states  
+• Full routing using React Router  
+
+--------------------------------------------
+📌 Output:
+--------------------------------------------
+Generate the **full React project folder structure**,  
+including components, pages, context, routes, and styles.  
+Write clean, readable, production-ready code.
