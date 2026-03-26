@@ -31,7 +31,6 @@ This is a full E-commerce website built with **React**, **Tailwind CSS**, and ot
 
  **Clone the repository:
 git clone https://github.com/mostafa-abogazia/e-commerce.git
-cd e-commerce
 
   ## Running the code
 
